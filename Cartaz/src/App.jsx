@@ -9,9 +9,9 @@ function App() {
   return (
     <>
       <Button text= "Ir ao Blog"/>
-      <Card title="Poster: Star Wars" posterImag ={swPosterImg}/>
-      <Card title="Poster: Return of the Jedi" posterImag ={rtPosterImg}/>
-      <Card title="Poster: Empire Stikes Back" posterImag ={emPosterImg} />
+      <Card title="Poster: Star Wars" posterImg ={swPosterImg}/>
+      <Card title="Poster: Return of the Jedi" posterImg ={rtPosterImg}/>
+      <Card title="Poster: Empire Stikes Back" posterImg ={emPosterImg} />
             
     </>
   )
