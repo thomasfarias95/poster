@@ -1,0 +1,26 @@
+.container {
+    background-color: whitesmoke;
+    border-radius: 1rem;
+    display: flex;
+    gap: 4rem;
+    height: 25rem;
+    margin: 4rem auto;
+    padding: 4rem;
+    width:65rem;
+}
+
+.poster {
+    border: 8px solid black;
+    box-shadow:  0 24px 32px -16px rgba(0, 0, 0, 0.4);
+}
+
+.container h2{
+    font-size: 1.75rem;
+}
+
+.container p{
+    font-size: 1rem;
+    line-height: 1.5;
+    margin-top: 2rem;
+}
+
